@@ -1,5 +1,3 @@
-// Programa: Controlando um servo motor com Arduino (servo motor arduino code) 
- 
 #include <Servo.h> // Inclui a biblioteca Servo para controlar servos
  
 Servo meuServo; // Cria um objeto Servo para controlar o servo motor
